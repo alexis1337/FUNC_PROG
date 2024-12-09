@@ -1,0 +1,34 @@
+2024.12.09 14:55:10 INFO  Started: Metals version 1.4.1 in folders 'D:\proj\FUNC_PROG\lb1' for client Visual Studio Code 1.95.3.
+2024.12.09 14:55:11 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 14:55:14 INFO  running 'C:\Program Files\Java\jdk-21\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Alexis\AppData\Local\Temp\metals9194777238137022548\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.09 14:55:14 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.6  (this may take some time)...
+2024.12.09 14:55:20 INFO  [info] welcome to sbt 1.10.6 (Oracle Corporation Java 21.0.4)
+2024.12.09 14:55:23 INFO  [info] loading settings for project lb1-build-build from metals.sbt...
+2024.12.09 14:55:23 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb1\project\project
+2024.12.09 14:55:26 INFO  [info] loading settings for project lb1-build from metals.sbt...
+2024.12.09 14:55:26 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb1\project
+2024.12.09 14:55:29 INFO  [success] Generated .bloop\lb1-build.json
+2024.12.09 14:55:29 INFO  [success] Total time: 3 s, completed 9 дек. 2024 г., 14:55:29
+2024.12.09 14:55:30 INFO  [info] loading settings for project lb1 from build.sbt...
+2024.12.09 14:55:30 INFO  [info] set current project to hello-world (in build file:/D:/proj/FUNC_PROG/lb1/)
+2024.12.09 14:55:30 INFO  [success] Generated .bloop\lb1-test.json
+2024.12.09 14:55:30 INFO  [success] Generated .bloop\lb1.json
+2024.12.09 14:55:30 INFO  [success] Total time: 0 s, completed 9 дек. 2024 г., 14:55:30
+2024.12.09 14:55:31 INFO  time: ran 'sbt bloopInstall' in 16s
+2024.12.09 14:55:31 INFO  Attempting to connect to the build server...
+2024.12.09 14:55:31 INFO  Found a Bloop server running
+2024.12.09 14:55:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.09 14:55:31 INFO  Attempting to connect to the build server...
+2024.12.09 14:55:31 INFO  Found a Bloop server running
+2024.12.09 14:55:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.09 14:55:32 INFO  time: Connected to build server in 1.16s
+2024.12.09 14:55:32 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.09 14:55:32 INFO  time: Imported build in 0.11s
+2024.12.09 14:55:32 INFO  running doctor check
+2024.12.09 14:55:32 INFO  java targets: lb1-build, lb1-test, lb1
+2024.12.09 14:55:35 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 14:55:42 INFO  time: indexed workspace in 9.96s
+2024.12.09 14:55:50 INFO  compiling lb1 (1 scala source)
+2024.12.09 14:55:53 INFO  time: compiled lb1 in 3s
+дек. 09, 2024 3:19:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 234

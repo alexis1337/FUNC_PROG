@@ -1,0 +1,189 @@
+2024.12.01 17:17:24 INFO  Started: Metals version 1.4.1 in folders 'D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG' for client Visual Studio Code 1.95.3.
+2024.12.01 17:17:24 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.01 17:17:25 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 01, 2024 5:17:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+дек. 01, 2024 5:17:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.01 17:17:29 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 01, 2024 5:17:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+дек. 01, 2024 5:17:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2024.12.01 17:17:29 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4дек. 01, 2024 5:17:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+
+2024.12.01 17:17:29 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:17:29 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:17:29 INFO  Attempting to connect to the build server...
+2024.12.01 17:17:29 INFO  No running Bloop server found, starting one.
+2024.12.01 17:17:30 INFO  Starting compilation server
+2024.12.01 17:17:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.01 17:17:32 INFO  time: Connected to build server in 3.24s
+2024.12.01 17:17:32 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.01 17:17:32 INFO  running doctor check
+2024.12.01 17:17:32 INFO  java targets: 
+2024.12.01 17:17:33 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:17:38 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.01 17:17:38 INFO  time: indexed workspace in 5.9s
+2024.12.01 17:17:38 WARN  no build target for: D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala
+2024.12.01 17:23:14 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:23:14 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:23:14 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:24:31 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:07 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:07 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:07 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:07 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:09 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:09 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:13 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:14 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:14 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.01 17:25:48 INFO  Shutting down server
+2024.12.01 17:25:48 INFO  shutting down Metals
+2024.12.01 17:25:48 INFO  Shut down connection with build server.
+2024.12.01 17:25:48 INFO  Exiting server
+2024.12.02 15:47:34 INFO  Started: Metals version 1.4.1 in folders 'D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG' for client Visual Studio Code 1.95.3.
+2024.12.02 15:47:35 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.02 15:47:35 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 02, 2024 3:47:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+дек. 02, 2024 3:47:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.02 15:47:36 INFO  Attempting to connect to the build server...
+2024.12.02 15:47:36 INFO  No running Bloop server found, starting one.
+2024.12.02 15:47:37 INFO  Starting compilation server
+2024.12.02 15:47:38 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:47:38 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:47:39 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:47:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.02 15:47:39 INFO  time: Connected to build server in 3.22s
+2024.12.02 15:47:39 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.02 15:47:39 INFO  time: Imported build in 0.1s
+2024.12.02 15:47:39 INFO  running doctor check
+2024.12.02 15:47:39 INFO  java targets: 
+2024.12.02 15:47:41 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.02 15:47:41 INFO  time: indexed workspace in 2.23s
+2024.12.02 15:47:42 WARN  no build target for: D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala
+2024.12.02 15:47:42 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:47:42 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:50:28 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:50:34 INFO  Shutting down server
+2024.12.02 15:50:34 INFO  shutting down Metals
+2024.12.02 15:50:34 INFO  Shut down connection with build server.
+2024.12.02 15:50:34 INFO  Exiting server
+2024.12.02 15:50:43 INFO  Started: Metals version 1.4.1 in folders 'D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG' for client Visual Studio Code 1.95.3.
+2024.12.02 15:50:44 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.02 15:50:44 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 02, 2024 3:50:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+дек. 02, 2024 3:50:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+дек. 02, 2024 3:50:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.12.02 15:50:45 INFO  Attempting to connect to the build server...
+2024.12.02 15:50:45 INFO  Found a Bloop server running
+2024.12.02 15:50:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.02 15:50:46 INFO  time: Connected to build server in 0.69s
+2024.12.02 15:50:46 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.02 15:50:46 INFO  time: Imported build in 0.12s
+2024.12.02 15:50:46 INFO  running doctor check
+2024.12.02 15:50:46 INFO  java targets: 
+2024.12.02 15:50:48 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.02 15:50:48 INFO  time: indexed workspace in 1.92s
+2024.12.02 15:50:48 WARN  no build target for: D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala
+2024.12.02 15:50:48 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:50:49 INFO  time: code lens generation in 1.26s
+2024.12.02 15:50:51 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:50:51 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:50:52 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:51:11 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:51:11 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:51:11 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:06 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:06 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:07 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:24 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:24 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:25 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:27 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:27 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:28 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:30 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:30 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:32 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:32 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:32 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:32 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:34 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:34 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:34 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:34 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 02, 2024 3:54:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.02 15:54:42 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 02, 2024 3:54:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.02 15:54:44 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 02, 2024 3:54:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.02 15:54:46 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 02, 2024 3:54:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.02 15:54:48 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:49 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:51 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:51 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:51 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:51 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:54:51 INFO  no build target found for D:\ДЗ\3 курс\5 семестр\Функциональное программирование\FUNC_PROG\lab1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.02 15:55:32 INFO  Shutting down server
+2024.12.02 15:55:32 INFO  shutting down Metals
+2024.12.02 15:55:32 INFO  Shut down connection with build server.
+2024.12.02 15:55:32 INFO  Exiting server
+2024.12.09 14:53:23 INFO  Started: Metals version 1.4.1 in folders 'D:\proj\FUNC_PROG' for client Visual Studio Code 1.95.3.
+2024.12.09 14:53:24 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 14:53:25 INFO  Attempting to connect to the build server...
+2024.12.09 14:53:25 INFO  No running Bloop server found, starting one.
+2024.12.09 14:53:26 INFO  Starting compilation server
+2024.12.09 14:53:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.09 14:53:28 INFO  time: Connected to build server in 3.1s
+2024.12.09 14:53:28 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.09 14:53:28 INFO  running doctor check
+2024.12.09 14:53:28 INFO  java targets: 
+2024.12.09 14:53:30 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 14:53:30 INFO  time: indexed workspace in 1.99s
+2024.12.09 14:53:38 INFO  no build target found for D:\proj\FUNC_PROG\lb1\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:38 INFO  no build target found for D:\proj\FUNC_PROG\lb1\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:40 INFO  time: code lens generation in 1.69s
+2024.12.09 14:53:51 INFO  no build target found for D:\proj\FUNC_PROG\lb1\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:51 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:51 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:51 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:51 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:53 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:53 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:53:55 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:54:05 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:54:05 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:54:05 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:54:07 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 14:54:08 INFO  Shutting down server
+2024.12.09 14:54:08 INFO  shutting down Metals
+2024.12.09 14:54:08 INFO  Shut down connection with build server.
+2024.12.09 14:54:08 INFO  Exiting server
+2024.12.09 14:54:44 INFO  Started: Metals version 1.4.1 in folders 'D:\proj\FUNC_PROG' for client Visual Studio Code 1.95.3.
+2024.12.09 14:54:45 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 14:54:45 WARN  no build tool detected in workspace 'D:\proj\FUNC_PROG'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.12.09 14:54:45 WARN  Build server is not auto-connectable.
+2024.12.09 14:55:00 ERROR SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024.12.09 14:55:00 ERROR SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024.12.09 14:55:00 ERROR SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024.12.09 14:55:02 INFO  
+2024.12.09 14:55:02 INFO  Template applied in D:\proj\FUNC_PROG\.\lb1
+2024.12.09 14:55:02 INFO  
+2024.12.09 14:55:02 INFO  time: ran 'giter8.Giter8' in 2.8s
+2024.12.09 14:55:05 INFO  Shutting down server
+2024.12.09 14:55:05 INFO  shutting down Metals
+2024.12.09 14:55:05 INFO  Exiting server
