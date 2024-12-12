@@ -32,3 +32,123 @@
 2024.12.09 14:55:53 INFO  time: compiled lb1 in 3s
 дек. 09, 2024 3:19:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 234
+2024.12.09 15:24:29 INFO  time: code lens generation in 2.11s
+дек. 09, 2024 3:24:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 333
+2024.12.09 15:24:53 INFO  running 'C:\Program Files\Java\jdk-21\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Alexis\AppData\Local\Temp\metals17216136126600651391\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.09 15:24:54 INFO  [info] welcome to sbt 1.10.6 (Oracle Corporation Java 21.0.4)
+2024.12.09 15:24:54 INFO  [info] loading settings for project lb1-build-build from metals.sbt...
+2024.12.09 15:24:55 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb1\project\project
+2024.12.09 15:24:55 INFO  [info] loading settings for project lb1-build from metals.sbt...
+2024.12.09 15:24:55 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb1\project
+2024.12.09 15:24:58 INFO  [success] Generated .bloop\lb1-build.json
+2024.12.09 15:24:58 INFO  [success] Total time: 2 s, completed 9 дек. 2024 г., 15:24:58
+2024.12.09 15:25:00 INFO  [info] loading settings for project lb1 from build.sbt...
+2024.12.09 15:25:00 INFO  [info] set current project to hello-world (in build file:/D:/proj/FUNC_PROG/lb1/)
+2024.12.09 15:25:00 INFO  [success] Generated .bloop\lb1.json
+2024.12.09 15:25:00 INFO  [success] Generated .bloop\lb1-test.json
+2024.12.09 15:25:00 INFO  [success] Total time: 1 s, completed 9 дек. 2024 г., 15:25:00
+2024.12.09 15:25:01 INFO  time: ran 'sbt bloopInstall' in 7.84s
+2024.12.09 15:25:01 INFO  Disconnecting from Bloop session...
+2024.12.09 15:25:01 INFO  Shut down connection with build server.
+2024.12.09 15:25:01 INFO  Shut down connection with build server.
+2024.12.09 15:25:01 INFO  Attempting to connect to the build server...
+2024.12.09 15:25:01 INFO  Found a Bloop server running
+2024.12.09 15:25:01 INFO  no build target found for D:\proj\FUNC_PROG\lb1\build.sbt. Using presentation compiler with project's scala-library version: 2.13.12
+2024.12.09 15:25:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.09 15:25:01 INFO  Attempting to connect to the build server...
+2024.12.09 15:25:01 INFO  Found a Bloop server running
+2024.12.09 15:25:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.09 15:25:02 INFO  time: Connected to build server in 1s
+2024.12.09 15:25:02 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.09 15:25:02 INFO  running doctor check
+2024.12.09 15:25:02 INFO  java targets: lb1-build, lb1-test, lb1
+2024.12.09 15:25:06 INFO  time: indexed workspace in 4.52s
+2024.12.09 15:25:06 INFO  compiling lb1 (1 scala source)
+2024.12.09 15:25:09 INFO  time: compiled lb1 in 2.98s
+2024.12.09 15:31:06 INFO  compiling lb1 (1 scala source)
+2024.12.09 15:31:08 INFO  time: compiled lb1 in 1.07s
+дек. 09, 2024 3:40:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 445
+2024.12.09 15:40:26 INFO  compiling lb1 (1 scala source)
+2024.12.09 15:40:28 INFO  time: compiled lb1 in 1.2s
+дек. 09, 2024 3:42:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 577
+дек. 09, 2024 3:44:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 976
+дек. 09, 2024 3:44:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1093
+2024.12.09 15:45:16 INFO  compiling lb1 (1 scala source)
+2024.12.09 15:45:17 INFO  time: compiled lb1 in 1.17s
+дек. 09, 2024 3:45:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1168
+2024.12.09 15:45:38 INFO  compiling lb1 (1 scala source)
+2024.12.09 15:45:38 INFO  time: compiled lb1 in 0.7s
+дек. 09, 2024 4:06:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1443
+дек. 09, 2024 4:07:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1537
+дек. 09, 2024 4:08:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1769
+дек. 09, 2024 4:11:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2347
+2024.12.09 16:12:44 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:12:44 INFO  time: compiled lb1 in 0.9s
+2024.12.09 16:13:53 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:13:53 INFO  time: compiled lb1 in 0.65s
+2024.12.09 16:15:10 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:15:10 INFO  time: compiled lb1 in 0.5s
+дек. 09, 2024 4:17:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2827
+дек. 09, 2024 4:17:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3001
+дек. 09, 2024 4:17:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3031
+2024.12.09 16:18:58 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:18:58 INFO  time: compiled lb1 in 0.22s
+2024.12.09 16:19:11 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:19:11 INFO  time: compiled lb1 in 0.42s
+2024.12.09 16:19:31 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:19:31 INFO  time: compiled lb1 in 0.34s
+2024.12.09 16:20:16 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:20:16 INFO  time: compiled lb1 in 0.33s
+дек. 09, 2024 4:25:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3551
+2024.12.09 16:26:16 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:26:16 INFO  time: compiled lb1 in 0.34s
+2024.12.09 16:26:44 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:26:44 INFO  time: compiled lb1 in 0.36s
+2024.12.09 16:30:15 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:30:15 INFO  time: compiled lb1 in 0.33s
+2024.12.09 16:39:19 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:39:19 INFO  time: compiled lb1 in 0.33s
+дек. 09, 2024 4:44:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4626
+2024.12.09 16:45:07 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:45:07 INFO  time: compiled lb1 in 0.3s
+2024.12.09 16:47:58 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:47:58 INFO  time: compiled lb1 in 0.28s
+2024.12.09 16:48:47 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:48:47 INFO  time: compiled lb1 in 0.3s
+2024.12.09 16:51:46 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:51:46 INFO  time: compiled lb1 in 0.64s
+2024.12.09 16:52:13 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:52:13 INFO  time: compiled lb1 in 0.27s
+2024.12.09 16:56:41 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:56:41 INFO  time: compiled lb1 in 0.33s
+2024.12.09 16:57:16 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:57:16 INFO  time: compiled lb1 in 0.29s
+2024.12.09 16:59:33 INFO  compiling lb1 (1 scala source)
+2024.12.09 16:59:33 INFO  time: compiled lb1 in 0.29s
+2024.12.09 17:00:00 INFO  compiling lb1 (1 scala source)
+2024.12.09 17:00:00 INFO  time: compiled lb1 in 0.23s
+2024.12.09 17:00:19 INFO  compiling lb1 (1 scala source)
+2024.12.09 17:00:19 INFO  time: compiled lb1 in 0.24s
+2024.12.09 17:00:29 INFO  compiling lb1 (1 scala source)
+2024.12.09 17:00:29 INFO  time: compiled lb1 in 0.23s
+2024.12.09 17:00:36 INFO  compiling lb1 (1 scala source)
+2024.12.09 17:00:36 INFO  time: compiled lb1 in 0.24s
+2024.12.09 17:01:52 INFO  compiling lb1 (1 scala source)
+2024.12.09 17:01:52 INFO  time: compiled lb1 in 0.26s
+дек. 09, 2024 5:36:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
