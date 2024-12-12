@@ -25,14 +25,12 @@ def integralSimpson(f: Double => Double, l: Double, r: Double, steps: Int): Doub
 }
 
 // Для второго задания
-
 val LOWERCASE_LETTERS = "abcdefghijklmnopqrstuvwxyz"
 val UPPERCASE_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 val NUMBERS_LETTERS = "1234567890"
 val SPECIAL_LETTERS = "!@#$%^&*()_+-=[]{}|;:'/\",.<>?"
 
 // Задание 2 (Option)
-
 def specialSymbols(passwordCandidate: String, someLetters: String, n: Int): Boolean = 
   passwordCandidate.count(char => someLetters.contains(char)) >= n
 
@@ -47,7 +45,6 @@ def goodEnoughPasswordOption(password: String): Boolean = {
 }
 
 // Задание 2 (Try)
-
 def goodEnoughPasswordTry(password: String): Either[Boolean, String] = {
   val requirements: Map[String, String => Boolean] = Map(
     "Пароль должен содержать минимум 8 символов." -> (_.length >= 8),
@@ -56,9 +53,8 @@ def goodEnoughPasswordTry(password: String): Either[Boolean, String] = {
     "Пароль должен содержать минимум 1 цифру." -> (specialSymbols(_, NUMBERS_LETTERS, 1)),
     "Пароль должен содержать минимум 1 специальный символ." -> (specialSymbols(_, SPECIAL_LETTERS, 1))
   )
-
-  // проверяем и находим невыполненные условия
-  val failedChecks = requirements.collect {
+  
+  val failedChecks = requirements.collect { // проверяем и находим невыполненные условия
     case (message, check) if !check(password) => message
   }
 
@@ -69,7 +65,6 @@ def goodEnoughPasswordTry(password: String): Either[Boolean, String] = {
 }
 
 // Задание 2 (Future)
-
 def readPassword(): Future[String] = {
   Future {
     println("Введите пароль: ")
@@ -92,7 +87,6 @@ def readPassword(): Future[String] = {
 }
 
 // Задание 3
-
 trait Functor[F[_]] {
   def map[A, B](fa: F[A])(f: A => B): F[B]
 }
@@ -117,6 +111,7 @@ object optionMonad extends Monad[Option] {
   def pure[A](value: A): Option[A] = Some(value)
 }
 
+// Задание 1
 @main def Integral(): Unit = {
   println("Первое задание:")
   val result = integralSimpson(x => x * x, 5, 20, 10) // интервал [5; 20] с 10 шагами
@@ -124,6 +119,7 @@ object optionMonad extends Monad[Option] {
   println()  
 }
 
+// Задание 2 (Option)
 @main def PasswordOption(): Unit = {
  println("Второе задание (Option):")
  println("Придумайте пароль из 8 символов.")
@@ -139,6 +135,7 @@ object optionMonad extends Monad[Option] {
  }
 }
 
+// Задание 2 (Try)
 @main def PasswordTry(): Unit = {
  println("Второе задание (Try):")
  println("Придумайте пароль из 8 символов.")
@@ -154,6 +151,7 @@ object optionMonad extends Monad[Option] {
  }
 }
 
+// Задание 2 (Future)
 @main def PasswordFuture(): Unit = {
  println("Второе задание (Future):")
  println("Придумайте пароль из 8 символов.")
@@ -164,6 +162,7 @@ object optionMonad extends Monad[Option] {
  println("Пароль подходит!")
 }
 
+// Задание 3
 @main def monadAndFunctor(): Unit = {
     println("Третье задание:")
     val someOption: Option[Int] = Some(7)
@@ -173,7 +172,7 @@ object optionMonad extends Monad[Option] {
     println(optionFunctor.map(someOption)(_ * 2)) // Some(14)
     println(optionFunctor.map(noneOption)(_ * 2)) // None
     
-    println(pureOption)  
+    println(pureOption) // Some(52) 
 
     println(optionMonad.flatMap(someOption)(x => Some(x + 3))) // Some(10)
     println(optionMonad.flatMap(noneOption)(x => Some(x + 3))) // None
