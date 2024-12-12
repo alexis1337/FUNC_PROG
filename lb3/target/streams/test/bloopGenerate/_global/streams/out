@@ -1,0 +1,4 @@
+[debug] [lb3-test] Classpath dependencies List()
+[debug] [lb3-test] Dependencies from configurations List(lb3)
+[debug] Bloop wrote the configuration of project 'lb3-test' to 'D:\proj\FUNC_PROG\lb3\.bloop\lb3-test.json'
+[success] Generated .bloop\lb3-test.json

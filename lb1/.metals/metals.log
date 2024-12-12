@@ -152,3 +152,89 @@ WARNING: Unmatched cancel notification for request id 4626
 2024.12.09 17:01:52 INFO  time: compiled lb1 in 0.26s
 дек. 09, 2024 5:36:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.12.09 17:59:30 INFO  Shutting down server
+2024.12.09 17:59:30 INFO  shutting down Metals
+2024.12.09 17:59:30 INFO  Shut down connection with build server.
+2024.12.09 17:59:30 INFO  Shut down connection with build server.
+2024.12.09 17:59:30 INFO  Exiting server
+2024.12.10 15:49:52 INFO  Started: Metals version 1.4.1 in folders 'D:\proj\FUNC_PROG\lb1' for client Visual Studio Code 1.95.3.
+2024.12.10 15:49:53 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 15:49:53 INFO  Attempting to connect to the build server...
+2024.12.10 15:49:53 INFO  No running Bloop server found, starting one.
+2024.12.10 15:49:55 INFO  Starting compilation server
+2024.12.10 15:49:57 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 15:49:57 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 15:49:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.10 15:49:59 INFO  Attempting to connect to the build server...
+2024.12.10 15:49:59 INFO  Found a Bloop server running
+2024.12.10 15:49:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.10 15:49:59 INFO  time: Connected to build server in 5.87s
+2024.12.10 15:49:59 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.10 15:49:59 INFO  time: Imported build in 0.14s
+2024.12.10 15:49:59 INFO  running doctor check
+2024.12.10 15:49:59 INFO  java targets: lb1-build, lb1-test, lb1
+2024.12.10 15:50:06 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 15:50:07 INFO  time: indexed workspace in 7.73s
+2024.12.10 15:56:28 ERROR SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024.12.10 15:56:28 ERROR SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024.12.10 15:56:28 ERROR SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024.12.10 15:56:30 INFO  
+2024.12.10 15:56:30 INFO  Template applied in D:\proj\FUNC_PROG\.\lb2
+2024.12.10 15:56:30 INFO  
+2024.12.10 15:56:30 INFO  time: ran 'giter8.Giter8' in 2.72s
+2024.12.10 15:56:34 INFO  Shutting down server
+2024.12.10 15:56:34 INFO  shutting down Metals
+2024.12.10 15:56:34 INFO  Shut down connection with build server.
+2024.12.10 15:56:34 INFO  Shut down connection with build server.
+2024.12.10 15:56:34 INFO  Exiting server
+2024.12.10 16:49:17 INFO  Started: Metals version 1.4.1 in folders 'D:\proj\FUNC_PROG\lb1' for client Visual Studio Code 1.95.3.
+2024.12.10 16:49:17 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 16:49:18 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:49:18 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 10, 2024 4:49:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+дек. 10, 2024 4:49:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+дек. 10, 2024 4:49:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.10 16:49:19 INFO  Attempting to connect to the build server...
+2024.12.10 16:49:19 INFO  Found a Bloop server running
+2024.12.10 16:49:19 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:49:19 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:49:20 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:49:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.10 16:49:20 INFO  Attempting to connect to the build server...
+2024.12.10 16:49:20 INFO  Found a Bloop server running
+2024.12.10 16:49:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.10 16:49:21 INFO  time: Connected to build server in 2.27s
+2024.12.10 16:49:21 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.10 16:49:21 INFO  no build target found for D:\proj\FUNC_PROG\lb1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:49:21 INFO  time: Imported build in 0.1s
+2024.12.10 16:49:21 INFO  running doctor check
+2024.12.10 16:49:21 INFO  java targets: lb1-build, lb1-test, lb1
+2024.12.10 16:49:25 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 16:49:26 INFO  time: indexed workspace in 4.94s
+2024.12.10 16:49:48 INFO  Shutting down server
+2024.12.10 16:49:48 INFO  shutting down Metals
+2024.12.10 16:49:49 INFO  Shut down connection with build server.
+2024.12.10 16:49:49 INFO  Shut down connection with build server.
+2024.12.10 16:49:48 INFO  Exiting server
+2024.12.10 16:51:09 INFO  Started: Metals version 1.4.1 in folders 'D:\proj\FUNC_PROG\lb1' for client Visual Studio Code 1.95.3.
+2024.12.10 16:51:09 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 16:51:10 INFO  Attempting to connect to the build server...
+2024.12.10 16:51:10 INFO  Found a Bloop server running
+2024.12.10 16:51:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.10 16:51:10 INFO  Attempting to connect to the build server...
+2024.12.10 16:51:10 INFO  Found a Bloop server running
+2024.12.10 16:51:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb1\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.10 16:51:11 INFO  time: Connected to build server in 1.35s
+2024.12.10 16:51:11 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.10 16:51:11 INFO  running doctor check
+2024.12.10 16:51:11 INFO  java targets: lb1-build, lb1-test, lb1
+2024.12.10 16:51:15 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 16:51:16 INFO  time: indexed workspace in 4.68s
+2024.12.10 16:54:13 INFO  Shutting down server
+2024.12.10 16:54:13 INFO  shutting down Metals
+2024.12.10 16:54:14 INFO  Shut down connection with build server.
+2024.12.10 16:54:14 INFO  Shut down connection with build server.
+2024.12.10 16:54:13 INFO  Exiting server

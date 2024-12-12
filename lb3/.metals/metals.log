@@ -1,0 +1,55 @@
+2024.12.10 16:54:47 INFO  Started: Metals version 1.4.1 in folders 'D:\proj\FUNC_PROG\lb3' for client Visual Studio Code 1.95.3.
+2024.12.10 16:54:47 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 16:54:48 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 10, 2024 4:54:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+дек. 10, 2024 4:54:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+дек. 10, 2024 4:54:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.10 16:54:50 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:50 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:50 WARN  Could not find semantic tokens for: file:///D:/proj/FUNC_PROG/lb3/build.sbt
+2024.12.10 16:54:51 INFO  running 'C:\Program Files\Java\jdk-21\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Alexis\AppData\Local\Temp\metals6493209833871225621\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.10 16:54:52 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:52 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:53 INFO  [info] welcome to sbt 1.10.6 (Oracle Corporation Java 21.0.4)
+2024.12.10 16:54:53 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:53 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:53 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:53 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:55 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:55 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:55 INFO  [info] loading settings for project lb3-build-build from metals.sbt...
+2024.12.10 16:54:55 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 16:54:55 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project\project
+2024.12.10 16:54:57 INFO  [info] loading settings for project lb3-build from metals.sbt...
+2024.12.10 16:54:57 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project
+2024.12.10 16:55:00 INFO  [success] Generated .bloop\lb3-build.json
+2024.12.10 16:55:00 INFO  [success] Total time: 2 s, completed 10 дек. 2024 г., 16:55:00
+2024.12.10 16:55:01 INFO  [info] loading settings for project lb3 from build.sbt...
+2024.12.10 16:55:01 INFO  [info] set current project to hello-world (in build file:/D:/proj/FUNC_PROG/lb3/)
+2024.12.10 16:55:01 INFO  [success] Generated .bloop\lb3-test.json
+2024.12.10 16:55:01 INFO  [success] Generated .bloop\lb3.json
+2024.12.10 16:55:01 INFO  [success] Total time: 0 s, completed 10 дек. 2024 г., 16:55:01
+2024.12.10 16:55:02 INFO  time: ran 'sbt bloopInstall' in 10s
+2024.12.10 16:55:02 INFO  Attempting to connect to the build server...
+2024.12.10 16:55:02 INFO  Found a Bloop server running
+2024.12.10 16:55:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.10 16:55:02 INFO  Attempting to connect to the build server...
+2024.12.10 16:55:02 INFO  Found a Bloop server running
+2024.12.10 16:55:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.10 16:55:03 INFO  time: Connected to build server in 1.05s
+2024.12.10 16:55:03 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.10 16:55:03 INFO  running doctor check
+2024.12.10 16:55:03 INFO  java targets: lb3-test, lb3, lb3-build
+2024.12.10 16:55:05 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 16:55:10 INFO  time: indexed workspace in 7.54s
+2024.12.10 16:55:12 INFO  time: code lens generation in 1.44s
+2024.12.10 16:55:12 INFO  time: code lens generation in 1.91s
+2024.12.10 16:55:12 INFO  time: code lens generation in 1.91s
+2024.12.10 16:55:22 INFO  Shutting down server
+2024.12.10 16:55:22 INFO  shutting down Metals
+2024.12.10 16:55:22 INFO  Shut down connection with build server.
+2024.12.10 16:55:22 INFO  Shut down connection with build server.
+2024.12.10 16:55:22 INFO  Exiting server
