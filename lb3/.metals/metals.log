@@ -1,55 +1,475 @@
-2024.12.10 16:54:47 INFO  Started: Metals version 1.4.1 in folders 'D:\proj\FUNC_PROG\lb3' for client Visual Studio Code 1.95.3.
-2024.12.10 16:54:47 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
-2024.12.10 16:54:48 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-дек. 10, 2024 4:54:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 5
-дек. 10, 2024 4:54:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 2
-дек. 10, 2024 4:54:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+2024.12.19 14:23:39 INFO  Started: Metals version 1.4.2 in folders 'D:\proj\FUNC_PROG\lb3' for client Visual Studio Code 1.96.1.
+2024.12.19 14:23:40 INFO  no build target found for D:\proj\FUNC_PROG\lb3\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 19, 2024 2:23:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 1
-2024.12.10 16:54:50 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:50 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:50 WARN  Could not find semantic tokens for: file:///D:/proj/FUNC_PROG/lb3/build.sbt
-2024.12.10 16:54:51 INFO  running 'C:\Program Files\Java\jdk-21\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Alexis\AppData\Local\Temp\metals6493209833871225621\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
-2024.12.10 16:54:52 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:52 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:53 INFO  [info] welcome to sbt 1.10.6 (Oracle Corporation Java 21.0.4)
-2024.12.10 16:54:53 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:53 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:53 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:53 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:55 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:55 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:55 INFO  [info] loading settings for project lb3-build-build from metals.sbt...
-2024.12.10 16:54:55 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
-2024.12.10 16:54:55 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project\project
-2024.12.10 16:54:57 INFO  [info] loading settings for project lb3-build from metals.sbt...
-2024.12.10 16:54:57 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project
-2024.12.10 16:55:00 INFO  [success] Generated .bloop\lb3-build.json
-2024.12.10 16:55:00 INFO  [success] Total time: 2 s, completed 10 дек. 2024 г., 16:55:00
-2024.12.10 16:55:01 INFO  [info] loading settings for project lb3 from build.sbt...
-2024.12.10 16:55:01 INFO  [info] set current project to hello-world (in build file:/D:/proj/FUNC_PROG/lb3/)
-2024.12.10 16:55:01 INFO  [success] Generated .bloop\lb3-test.json
-2024.12.10 16:55:01 INFO  [success] Generated .bloop\lb3.json
-2024.12.10 16:55:01 INFO  [success] Total time: 0 s, completed 10 дек. 2024 г., 16:55:01
-2024.12.10 16:55:02 INFO  time: ran 'sbt bloopInstall' in 10s
-2024.12.10 16:55:02 INFO  Attempting to connect to the build server...
-2024.12.10 16:55:02 INFO  Found a Bloop server running
-2024.12.10 16:55:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
-2024.12.10 16:55:02 INFO  Attempting to connect to the build server...
-2024.12.10 16:55:02 INFO  Found a Bloop server running
-2024.12.10 16:55:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
-2024.12.10 16:55:03 INFO  time: Connected to build server in 1.05s
-2024.12.10 16:55:03 INFO  Connected to Build server: Bloop v2.0.5
-2024.12.10 16:55:03 INFO  running doctor check
-2024.12.10 16:55:03 INFO  java targets: lb3-test, lb3, lb3-build
-2024.12.10 16:55:05 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
-2024.12.10 16:55:10 INFO  time: indexed workspace in 7.54s
-2024.12.10 16:55:12 INFO  time: code lens generation in 1.44s
-2024.12.10 16:55:12 INFO  time: code lens generation in 1.91s
-2024.12.10 16:55:12 INFO  time: code lens generation in 1.91s
-2024.12.10 16:55:22 INFO  Shutting down server
-2024.12.10 16:55:22 INFO  shutting down Metals
-2024.12.10 16:55:22 INFO  Shut down connection with build server.
-2024.12.10 16:55:22 INFO  Shut down connection with build server.
-2024.12.10 16:55:22 INFO  Exiting server
+дек. 19, 2024 2:23:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2024.12.19 14:23:41 INFO  no build target found for D:\proj\FUNC_PROG\lb3\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:41 INFO  no build target found for D:\proj\FUNC_PROG\lb3\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:41 INFO  no build target found for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:42 INFO  no build target found for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:44 INFO  no build target found for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:46 INFO  running 'C:\Program Files\Java\jdk-21\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Alexis\AppData\Local\Temp\metals9164848543546031762\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.19 14:23:48 INFO  [info] welcome to sbt 1.10.6 (Oracle Corporation Java 21.0.4)
+2024.12.19 14:23:50 INFO  [info] loading settings for project lb3-build-build-build from metals.sbt...
+2024.12.19 14:23:50 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project\project\project
+2024.12.19 14:23:51 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:51 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:51 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:52 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:54 INFO  [info] loading settings for project lb3-build-build from metals.sbt...
+2024.12.19 14:23:54 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project\project
+2024.12.19 14:23:57 INFO  [success] Generated .bloop\lb3-build-build.json
+2024.12.19 14:23:57 INFO  no build target found for D:\proj\FUNC_PROG\lb3\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 14:23:57 INFO  [success] Total time: 3 s, completed 19 дек. 2024 г., 14:23:57
+2024.12.19 14:23:57 INFO  [info] loading settings for project lb3-build from metals.sbt, plugins.sbt...
+2024.12.19 14:23:58 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project
+2024.12.19 14:24:00 INFO  [success] Generated .bloop\lb3-build.json
+2024.12.19 14:24:00 INFO  [success] Total time: 3 s, completed 19 дек. 2024 г., 14:24:00
+2024.12.19 14:24:02 INFO  [info] loading settings for project lb3 from build.sbt...
+2024.12.19 14:24:02 INFO  [info] set current project to lb3 (in build file:/D:/proj/FUNC_PROG/lb3/)
+2024.12.19 14:24:13 INFO  [success] Generated .bloop\lb3.json
+2024.12.19 14:24:13 INFO  [success] Generated .bloop\lb3-test.json
+2024.12.19 14:24:13 INFO  [success] Total time: 11 s, completed 19 дек. 2024 г., 14:24:13
+2024.12.19 14:24:13 INFO  time: ran 'sbt bloopInstall' in 26s
+2024.12.19 14:24:13 INFO  Attempting to connect to the build server...
+2024.12.19 14:24:13 INFO  Found a Bloop server running
+2024.12.19 14:24:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.19 14:24:13 INFO  Attempting to connect to the build server...
+2024.12.19 14:24:13 INFO  Found a Bloop server running
+2024.12.19 14:24:13 INFO  Attempting to connect to the build server...
+2024.12.19 14:24:13 INFO  Found a Bloop server running
+2024.12.19 14:24:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.19 14:24:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\project\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.19 14:24:14 INFO  time: Connected to build server in 1.1s
+2024.12.19 14:24:14 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.19 14:24:14 INFO  time: Imported build in 0.13s
+2024.12.19 14:24:14 INFO  running doctor check
+2024.12.19 14:24:14 INFO  java targets: lb3-build-build, lb3-test, lb3, lb3-build
+2024.12.19 14:24:24 INFO  time: indexed workspace in 10s
+2024.12.19 14:24:25 INFO  compiling lb3 (1 scala source)
+2024.12.19 14:24:28 INFO  Deduplicating compilation of lb3 from bsp client 'Metals 1.4.2' (since 14.539s)
+2024.12.19 14:24:28 INFO  compiling lb3 (1 scala source)
+2024.12.19 14:24:29 INFO  time: code lens generation in 4.51s
+2024.12.19 14:24:30 INFO  time: compiled lb3 in 2.57s
+2024.12.19 14:24:30 INFO  compiling lb3-test (1 scala source)
+2024.12.19 14:24:32 INFO  time: compiled lb3-test in 1.72s
+дек. 19, 2024 2:41:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1803
+дек. 19, 2024 2:48:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2679
+2024.12.19 15:01:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:01:56 INFO  time: compiled lb3 in 1.96s
+2024.12.19 15:03:06 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:03:06 INFO  time: compiled lb3 in 0.92s
+2024.12.19 15:05:15 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:05:15 WARN  Could not find semantic tokens for: file:///D:/proj/FUNC_PROG/lb3/src/main/scala/com/example/AkkaSum.scala
+2024.12.19 15:05:15 INFO  time: compiled lb3 in 0.2s
+2024.12.19 15:05:25 WARN  Could not find semantic tokens for: file:///D:/proj/FUNC_PROG/lb3/src/main/scala/com/example/AkkaSum.scala
+2024.12.19 15:15:57 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:15:59 INFO  time: compiled lb3 in 1.24s
+2024.12.19 15:16:01 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:16:01 INFO  time: compiled lb3 in 0.96s
+2024.12.19 15:16:06 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:16:07 INFO  time: compiled lb3 in 1.05s
+2024.12.19 15:16:07 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:16:08 INFO  time: compiled lb3 in 1.07s
+2024.12.19 15:16:10 INFO  time: compiled lb3 in 13ms
+2024.12.19 15:17:01 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:17:01 INFO  time: compiled lb3 in 0.49s
+2024.12.19 15:17:15 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:17:16 INFO  time: compiled lb3 in 1.46s
+2024.12.19 15:20:14 INFO  running 'C:\Program Files\Java\jdk-21\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Alexis\AppData\Local\Temp\metals10487622040803730669\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.19 15:20:20 INFO  [info] welcome to sbt 1.10.6 (Oracle Corporation Java 21.0.4)
+2024.12.19 15:20:22 INFO  [info] loading settings for project lb3-build-build-build from metals.sbt...
+2024.12.19 15:20:24 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project\project\project
+2024.12.19 15:20:26 INFO  [info] loading settings for project lb3-build-build from metals.sbt...
+2024.12.19 15:20:26 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project\project
+2024.12.19 15:20:34 INFO  [success] Generated .bloop\lb3-build-build.json
+2024.12.19 15:20:34 INFO  [success] Total time: 7 s, completed 19 дек. 2024 г., 15:20:34
+2024.12.19 15:20:34 INFO  [info] loading settings for project lb3-build from metals.sbt, plugins.sbt...
+2024.12.19 15:20:35 INFO  [info] loading project definition from D:\proj\FUNC_PROG\lb3\project
+2024.12.19 15:20:40 INFO  [success] Generated .bloop\lb3-build.json
+2024.12.19 15:20:40 INFO  [success] Total time: 4 s, completed 19 дек. 2024 г., 15:20:40
+2024.12.19 15:20:45 INFO  [info] loading settings for project lb3 from build.sbt...
+2024.12.19 15:20:45 INFO  [info] set current project to lb3 (in build file:/D:/proj/FUNC_PROG/lb3/)
+2024.12.19 15:20:50 INFO  [success] Generated .bloop\lb3.json
+2024.12.19 15:20:50 INFO  [success] Generated .bloop\lb3-test.json
+2024.12.19 15:20:50 INFO  [success] Total time: 5 s, completed 19 дек. 2024 г., 15:20:50
+2024.12.19 15:20:51 INFO  time: ran 'sbt bloopInstall' in 36s
+2024.12.19 15:20:51 INFO  Disconnecting from Bloop session...
+2024.12.19 15:20:51 INFO  Shut down connection with build server.
+2024.12.19 15:20:51 INFO  Shut down connection with build server.
+2024.12.19 15:20:51 INFO  Shut down connection with build server.
+2024.12.19 15:20:51 INFO  Attempting to connect to the build server...
+2024.12.19 15:20:51 INFO  Found a Bloop server running
+2024.12.19 15:20:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.19 15:20:53 INFO  Attempting to connect to the build server...
+2024.12.19 15:20:53 INFO  Found a Bloop server running
+2024.12.19 15:20:53 INFO  Attempting to connect to the build server...
+2024.12.19 15:20:53 INFO  Found a Bloop server running
+2024.12.19 15:20:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.19 15:20:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\proj\FUNC_PROG\lb3\project\project\.metals\bsp.trace.json or C:\Users\Alexis\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.19 15:20:56 INFO  time: Connected to build server in 4.99s
+2024.12.19 15:20:56 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.19 15:20:56 INFO  time: Imported build in 0.19s
+2024.12.19 15:20:56 INFO  running doctor check
+2024.12.19 15:20:56 INFO  java targets: lb3-build-build, lb3-test, lb3, lb3-build
+2024.12.19 15:21:10 INFO  compiling lb3 (2 scala sources)
+2024.12.19 15:21:12 INFO  time: indexed workspace in 15s
+2024.12.19 15:21:12 INFO  Deduplicating compilation of lb3 from bsp client 'Metals 1.4.2' (since 19.209s)
+2024.12.19 15:21:12 INFO  compiling lb3 (2 scala sources)
+дек. 19, 2024 3:21:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4702
+2024.12.19 15:21:16 INFO  time: compiled lb3 in 3.8s
+2024.12.19 15:21:18 INFO  compiling lb3-test (1 scala source)
+2024.12.19 15:21:22 INFO  time: compiled lb3-test in 3.93s
+2024.12.19 15:22:22 INFO  no build target found for /akka/actor/typed/scaladsl/Behaviors.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 15:22:22 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:22:22 INFO  time: compiled lb3 in 0.82s
+2024.12.19 15:22:38 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:22:38 INFO  time: compiled lb3 in 0.38s
+2024.12.19 15:23:04 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:23:04 INFO  time: compiled lb3 in 0.57s
+2024.12.19 15:23:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:23:55 INFO  time: compiled lb3 in 0.47s
+2024.12.19 15:24:16 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:24:16 INFO  time: compiled lb3 in 0.39s
+2024.12.19 15:24:29 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:24:29 INFO  time: compiled lb3 in 0.41s
+2024.12.19 15:24:47 INFO  compiling lb3 (1 scala source)
+дек. 19, 2024 3:24:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5061
+2024.12.19 15:24:47 INFO  time: compiled lb3 in 0.81s
+2024.12.19 15:25:07 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:25:07 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:25:07 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:25:07 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:25:07 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:25:07 INFO  time: compiled lb3 in 0.57s
+2024.12.19 15:28:47 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:28:47 INFO  time: compiled lb3 in 0.62s
+2024.12.19 15:30:52 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:30:52 INFO  time: compiled lb3 in 0.49s
+2024.12.19 15:32:10 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:32:10 INFO  time: compiled lb3 in 0.67s
+2024.12.19 15:32:27 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:32:27 INFO  time: compiled lb3 in 0.68s
+2024.12.19 15:32:46 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:32:46 INFO  time: compiled lb3 in 0.53s
+2024.12.19 15:32:49 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:32:49 INFO  time: compiled lb3 in 0.37s
+2024.12.19 15:34:14 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:34:14 INFO  time: compiled lb3 in 0.6s
+2024.12.19 15:35:26 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:35:26 INFO  time: compiled lb3 in 0.57s
+2024.12.19 15:35:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:35:55 INFO  time: compiled lb3 in 0.49s
+2024.12.19 15:36:06 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:36:06 INFO  time: compiled lb3 in 0.45s
+2024.12.19 15:37:23 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:37:23 INFO  time: compiled lb3 in 0.62s
+дек. 19, 2024 3:37:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5626
+2024.12.19 15:37:40 INFO  no build target found for /akka/actor/typed/scaladsl/ActorContext.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 15:37:41 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:37:41 INFO  time: compiled lb3 in 0.6s
+2024.12.19 15:37:45 WARN  Could not find 'Random' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.12.19 15:37:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:37:55 INFO  time: compiled lb3 in 0.45s
+2024.12.19 15:38:06 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:38:06 INFO  time: compiled lb3 in 0.38s
+2024.12.19 15:38:21 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:38:21 INFO  time: compiled lb3 in 0.35s
+2024.12.19 15:39:45 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:39:45 INFO  time: compiled lb3 in 0.19s
+2024.12.19 15:39:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:39:55 INFO  time: compiled lb3 in 0.16s
+2024.12.19 15:40:00 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:40:00 INFO  time: compiled lb3 in 0.16s
+дек. 19, 2024 3:40:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5856
+2024.12.19 15:40:22 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:40:22 INFO  time: compiled lb3 in 0.39s
+2024.12.19 15:41:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:41:55 INFO  time: compiled lb3 in 0.41s
+2024.12.19 15:42:46 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:42:46 INFO  time: compiled lb3 in 0.55s
+2024.12.19 15:43:06 INFO  no build target found for /akka/actor/typed/Behavior.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 15:43:06 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:43:06 INFO  time: compiled lb3 in 0.53s
+2024.12.19 15:43:12 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:43:12 INFO  time: compiled lb3 in 0.46s
+2024.12.19 15:46:13 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:46:13 INFO  time: compiled lb3 in 0.18s
+2024.12.19 15:46:19 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:46:19 INFO  time: compiled lb3 in 0.53s
+2024.12.19 15:46:22 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:46:22 INFO  time: compiled lb3 in 0.5s
+2024.12.19 15:46:49 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:46:49 INFO  time: compiled lb3 in 0.43s
+2024.12.19 15:48:40 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:48:40 INFO  time: compiled lb3 in 0.42s
+2024.12.19 15:49:17 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:49:17 INFO  time: compiled lb3 in 0.42s
+2024.12.19 15:49:26 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:49:26 INFO  time: compiled lb3 in 0.16s
+2024.12.19 15:49:26 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:49:45 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:49:58 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:00 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:00 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:01 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:02 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:02 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:03 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:04 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:04 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:06 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:07 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:07 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:08 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:08 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:09 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:50:08 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:08 WARN  Could not load snapshot text for D:\proj\FUNC_PROG\lb3\src\main\scala\com\example\AkkaSum.scala
+2024.12.19 15:50:09 INFO  time: compiled lb3 in 0.43s
+2024.12.19 15:51:03 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:51:03 INFO  time: compiled lb3 in 0.37s
+2024.12.19 15:51:25 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:51:25 INFO  time: compiled lb3 in 0.49s
+2024.12.19 15:51:48 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:51:48 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.12.19 15:51:48 INFO  time: compiled lb3 in 0.34s
+2024.12.19 15:51:53 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:51:53 INFO  time: compiled lb3 in 0.32s
+2024.12.19 15:52:11 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:52:11 INFO  time: compiled lb3 in 0.29s
+2024.12.19 15:53:29 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:53:29 INFO  time: compiled lb3 in 0.33s
+2024.12.19 15:53:37 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:53:37 INFO  time: compiled lb3 in 0.34s
+2024.12.19 15:53:46 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:53:46 INFO  time: compiled lb3 in 0.29s
+2024.12.19 15:54:01 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:54:01 INFO  time: compiled lb3 in 0.34s
+2024.12.19 15:54:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:54:55 INFO  time: compiled lb3 in 0.36s
+2024.12.19 15:57:15 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:57:15 INFO  time: compiled lb3 in 0.2s
+2024.12.19 15:57:28 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:57:28 INFO  time: compiled lb3 in 0.5s
+2024.12.19 15:57:35 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:57:35 INFO  time: compiled lb3 in 0.17s
+2024.12.19 15:58:32 INFO  compiling lb3 (1 scala source)
+2024.12.19 15:58:32 INFO  time: compiled lb3 in 0.17s
+дек. 19, 2024 4:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8066
+2024.12.19 16:01:41 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:01:41 INFO  time: compiled lb3 in 0.17s
+2024.12.19 16:02:58 INFO  time: compiled lb3 in 11ms
+2024.12.19 16:04:02 INFO  no build target found for /akka/actor/typed/ActorRef.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.19 16:04:11 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:04:11 INFO  time: compiled lb3 in 0.58s
+2024.12.19 16:04:20 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:04:20 INFO  time: compiled lb3 in 0.45s
+2024.12.19 16:04:28 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:04:28 INFO  time: compiled lb3 in 0.31s
+2024.12.19 16:05:28 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:05:28 INFO  time: compiled lb3 in 0.19s
+2024.12.19 16:05:45 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:05:45 INFO  time: compiled lb3 in 0.16s
+2024.12.19 16:06:59 INFO  time: compiled lb3 in 5ms
+2024.12.19 16:09:13 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:09:13 INFO  time: compiled lb3 in 0.18s
+2024.12.19 16:09:21 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:09:21 INFO  time: compiled lb3 in 0.17s
+2024.12.19 16:09:30 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:09:30 INFO  time: compiled lb3 in 0.5s
+2024.12.19 16:09:44 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:09:44 INFO  time: compiled lb3 in 0.46s
+2024.12.19 16:09:50 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:09:50 INFO  time: compiled lb3 in 0.43s
+2024.12.19 16:09:56 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:09:56 INFO  time: compiled lb3 in 0.33s
+2024.12.19 16:11:23 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:11:23 INFO  time: compiled lb3 in 0.58s
+2024.12.19 16:11:30 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:11:30 INFO  time: compiled lb3 in 0.43s
+2024.12.19 16:12:26 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:12:26 INFO  time: compiled lb3 in 0.48s
+2024.12.19 16:13:04 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:13:04 INFO  time: compiled lb3 in 0.49s
+2024.12.19 16:13:10 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:13:10 INFO  time: compiled lb3 in 0.39s
+2024.12.19 16:16:21 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:16:21 INFO  time: compiled lb3 in 0.17s
+2024.12.19 16:16:40 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:16:40 INFO  time: compiled lb3 in 0.17s
+2024.12.19 16:16:47 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:16:47 INFO  time: compiled lb3 in 0.15s
+дек. 19, 2024 4:17:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9419
+2024.12.19 16:17:20 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:17:20 INFO  time: compiled lb3 in 0.15s
+2024.12.19 16:17:32 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:17:32 INFO  time: compiled lb3 in 0.15s
+2024.12.19 16:19:30 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:19:30 INFO  time: compiled lb3 in 0.16s
+2024.12.19 16:19:42 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:19:42 INFO  time: compiled lb3 in 0.15s
+2024.12.19 16:19:51 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:19:51 INFO  time: compiled lb3 in 0.15s
+2024.12.19 16:20:43 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:20:43 INFO  time: compiled lb3 in 0.49s
+2024.12.19 16:21:24 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:21:24 INFO  time: compiled lb3 in 0.25s
+2024.12.19 16:21:27 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:21:27 INFO  time: compiled lb3 in 0.47s
+2024.12.19 16:22:28 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:22:28 INFO  time: compiled lb3 in 0.49s
+2024.12.19 16:22:34 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:22:34 INFO  time: compiled lb3 in 0.4s
+2024.12.19 16:29:11 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:29:11 INFO  time: compiled lb3 in 0.49s
+2024.12.19 16:29:56 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:29:56 INFO  time: compiled lb3 in 0.49s
+дек. 19, 2024 4:31:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10152
+дек. 19, 2024 4:31:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10172
+2024.12.19 16:31:07 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:31:07 INFO  time: compiled lb3 in 0.16s
+2024.12.19 16:31:35 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:31:35 INFO  time: compiled lb3 in 0.14s
+2024.12.19 16:31:39 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:31:39 INFO  time: compiled lb3 in 0.14s
+2024.12.19 16:31:52 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:31:52 INFO  time: compiled lb3 in 0.16s
+дек. 19, 2024 4:32:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10359
+2024.12.19 16:33:07 INFO  time: compiled lb3 in 3ms
+2024.12.19 16:34:00 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:34:00 INFO  time: compiled lb3 in 0.36s
+2024.12.19 16:34:19 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:34:19 INFO  time: compiled lb3 in 0.33s
+2024.12.19 16:38:11 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:38:11 INFO  time: compiled lb3 in 0.33s
+дек. 19, 2024 4:40:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11329
+2024.12.19 16:40:34 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:40:34 INFO  time: compiled lb3 in 0.17s
+2024.12.19 16:41:05 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:41:05 INFO  time: compiled lb3 in 0.55s
+2024.12.19 16:41:20 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:41:20 INFO  time: compiled lb3 in 0.45s
+2024.12.19 16:42:03 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:42:03 INFO  time: compiled lb3 in 0.16s
+2024.12.19 16:43:23 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:43:23 INFO  time: compiled lb3 in 0.5s
+2024.12.19 16:43:36 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:43:36 INFO  time: compiled lb3 in 0.14s
+2024.12.19 16:43:48 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:43:48 INFO  time: compiled lb3 in 0.14s
+2024.12.19 16:43:57 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:43:57 INFO  time: compiled lb3 in 0.14s
+дек. 19, 2024 4:45:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11731
+2024.12.19 16:46:00 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:46:00 INFO  time: compiled lb3 in 0.51s
+2024.12.19 16:46:05 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:46:05 INFO  time: compiled lb3 in 0.41s
+2024.12.19 16:46:11 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:46:11 INFO  time: compiled lb3 in 0.14s
+2024.12.19 16:47:05 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:47:05 INFO  time: compiled lb3 in 0.47s
+2024.12.19 16:48:06 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:48:06 INFO  time: compiled lb3 in 0.18s
+2024.12.19 16:48:24 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:48:24 INFO  time: compiled lb3 in 0.14s
+2024.12.19 16:49:23 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:49:23 INFO  time: compiled lb3 in 0.54s
+2024.12.19 16:49:48 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:49:48 INFO  time: compiled lb3 in 0.15s
+2024.12.19 16:50:38 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:50:38 INFO  time: compiled lb3 in 0.37s
+дек. 19, 2024 4:51:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12132
+2024.12.19 16:51:25 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:51:25 INFO  time: compiled lb3 in 0.38s
+2024.12.19 16:53:10 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:53:10 INFO  time: compiled lb3 in 0.16s
+2024.12.19 16:53:49 INFO  time: compiled lb3 in 2ms
+2024.12.19 16:54:38 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:54:38 INFO  time: compiled lb3 in 0.43s
+2024.12.19 16:55:43 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:55:43 INFO  time: compiled lb3 in 0.35s
+2024.12.19 16:56:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:56:55 INFO  time: compiled lb3 in 0.32s
+2024.12.19 16:57:41 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:57:41 INFO  time: compiled lb3 in 0.54s
+2024.12.19 16:57:47 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:57:47 INFO  time: compiled lb3 in 0.14s
+2024.12.19 16:58:00 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:58:00 INFO  time: compiled lb3 in 0.42s
+2024.12.19 16:58:09 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:58:09 INFO  time: compiled lb3 in 0.14s
+2024.12.19 16:58:20 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:58:20 INFO  time: compiled lb3 in 0.13s
+2024.12.19 16:58:38 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:58:38 INFO  time: compiled lb3 in 0.47s
+2024.12.19 16:59:03 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:59:03 INFO  time: compiled lb3 in 0.29s
+2024.12.19 16:59:09 INFO  compiling lb3 (1 scala source)
+2024.12.19 16:59:09 INFO  time: compiled lb3 in 0.43s
+2024.12.19 16:59:27 INFO  time: compiled lb3 in 3ms
+2024.12.19 17:00:07 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:00:07 INFO  time: compiled lb3 in 0.17s
+2024.12.19 17:00:26 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:00:26 INFO  time: compiled lb3 in 0.14s
+дек. 19, 2024 5:00:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13175
+2024.12.19 17:00:50 INFO  time: compiled lb3 in 3ms
+2024.12.19 17:00:58 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:00:58 INFO  time: compiled lb3 in 0.32s
+2024.12.19 17:01:24 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:01:24 INFO  time: compiled lb3 in 0.46s
+2024.12.19 17:01:46 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:01:46 INFO  time: compiled lb3 in 0.29s
+2024.12.19 17:02:24 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:02:24 INFO  time: compiled lb3 in 0.31s
+2024.12.19 17:03:36 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:03:36 INFO  time: compiled lb3 in 0.32s
+2024.12.19 17:04:12 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:04:12 INFO  time: compiled lb3 in 0.33s
+дек. 19, 2024 5:04:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13649
+2024.12.19 17:04:47 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:04:47 INFO  time: compiled lb3 in 0.31s
+2024.12.19 17:04:55 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:04:55 INFO  time: compiled lb3 in 0.27s
+2024.12.19 17:05:30 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:05:30 INFO  time: compiled lb3 in 0.31s
+2024.12.19 17:06:12 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:06:12 INFO  time: compiled lb3 in 0.33s
+2024.12.19 17:06:32 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:06:32 INFO  time: compiled lb3 in 0.26s
+2024.12.19 17:07:08 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:07:08 INFO  time: compiled lb3 in 54ms
+2024.12.19 17:07:08 WARN  Could not find semantic tokens for: file:///D:/proj/FUNC_PROG/lb3/src/main/scala/com/example/AkkaIntegrals.scala
+2024.12.19 17:07:30 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:07:30 INFO  time: compiled lb3 in 0.33s
+2024.12.19 17:07:31 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:07:31 INFO  time: compiled lb3 in 0.15s
+2024.12.19 17:07:57 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:07:57 INFO  time: compiled lb3 in 0.35s
+2024.12.19 17:08:21 WARN  Could not find semantic tokens for: file:///D:/proj/FUNC_PROG/lb3/src/main/scala/com/example/AkkaIntegrals.scala
+2024.12.19 17:08:22 INFO  compiling lb3 (1 scala source)
+2024.12.19 17:08:22 INFO  time: compiled lb3 in 39ms
+2024.12.19 17:08:22 WARN  Could not find semantic tokens for: file:///D:/proj/FUNC_PROG/lb3/src/main/scala/com/example/AkkaIntegrals.scala
+2024.12.19 17:12:13 INFO  Shutting down server
+2024.12.19 17:12:13 INFO  shutting down Metals
+2024.12.19 17:12:13 INFO  Shut down connection with build server.
+2024.12.19 17:12:13 INFO  Shut down connection with build server.
+2024.12.19 17:12:13 INFO  Shut down connection with build server.
+2024.12.19 17:12:13 INFO  Exiting server
